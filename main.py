@@ -1,0 +1,2 @@
+def salom():
+  return ("salom")
